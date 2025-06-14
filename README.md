@@ -1,11 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Christian Jake Catipay</h1>
-<h3 align="center">A passionate Full-Stack Developer based in the Philippines.</h3>
-
----
-
-
-
----
+<h3 align="center">A Future Full-Stack Developer based in the Philippines.</h3>
 
 ## 🚀 About Me
 
