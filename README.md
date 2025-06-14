@@ -9,27 +9,24 @@ I'm a dedicated Full-Stack developer always eager to build robust and scalable a
 
 Feel free to reach out! I'm always open to collaborations and new opportunities.
 
-<p align="center">
-    <a href="https://www.facebook.com/Kenshin.Cj15/" target="blank" title="Facebook">
-        <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-    </a>
-    &nbsp;
-    <a href="https://www.instagram.com/cjc.17/" target="blank" title="Instagram">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    &nbsp;
-    <a href="mailto:cjshark321@gmail.com" target="blank" title="Email">
-        <img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    &nbsp;
-  <a href="https://twitter.com/CatipayJake target="blank" title="Twitter/X">
-    <img src="https://img.shields.io/twitter/follow/CatipayJake?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/christian-jake-catipay-10021a304/" target="blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  </p>    
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <a href="https://www.facebook.com/Kenshin.Cj15/" target="_blank" title="Facebook">
+    <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/cjc.17/" target="_blank" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:cjshark321@gmail.com" target="_blank" title="Email">
+    <img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/CatipayJake" target="_blank" title="Twitter/X">
+    <img src="https://img.shields.io/twitter/follow/CatipayJake?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/christian-jake-catipay-10021a304/" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+ 
 
 ---
 
