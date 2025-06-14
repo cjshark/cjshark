@@ -72,5 +72,3 @@ I'm a passionate full-stack developer who loves to create dynamic, scalable, and
 > Feel free to message me! I’m open to collaborations, remote work, or just nerding out about code and design.
 
 ---
-
-Let me know if you want it customized further (dark/light theme switch, animation, collapsible sections, etc.) or implemented directly into a GitHub repo.
