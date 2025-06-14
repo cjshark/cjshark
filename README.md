@@ -54,8 +54,6 @@ Here are some of the projects I've been working on. Click the links to explore t
 | **Apple Clone** | A front-end clone of the Apple website showcasing UI/UX skills. | [Live Demo](https://apple-clone-5kvo3r19w-chrstian-jakes-projects.vercel.app/) | ![Screenshot from 2025-06-11 21-03-07](https://github.com/user-attachments/assets/8e905148-9daa-4fb3-acc7-485397e8a78e) |
 
 
-*(**Note:** Replace `YOUR_CBG_HOMESTAY_IMAGE_URL_HERE`, `YOUR_HARMONICS_IMAGE_URL_HERE`, and `YOUR_APPLE_CLONE_IMAGE_URL_HERE` with direct links to your project images.)*
-
 ---
 
 ## 📊 GitHub Stats
