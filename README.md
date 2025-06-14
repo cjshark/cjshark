@@ -65,14 +65,12 @@ I'm a passionate full-stack developer who loves to create dynamic, scalable, and
 
 ## ✨ My Projects
 
-Here are some of the projects I've been working on. Click the links to explore them!
-
-| Project Name | Description | Live Demo | Image |
-| :---------- | :---------- | :-------- | :---: |
-| **CBG Homestay** | A responsive website for a homestay booking platform. | [Live Demo](https://cjshark.github.io/CBG-Homestay-2/) | ![Screenshot from 2025-06-11 21-05-33](https://github.com/user-attachments/assets/9e7ec31d-bfec-4b6c-887b-d884401e4d78) |
-| **Harmonics** | A dynamic web application focusing on music and sound. | [Live Demo](https://cjshark.github.io/Harmonics_2/) | ![Harmonics](https://github.com/user-attachments/assets/016df962-5d83-49de-8d89-1b975b0ef6d0) |
-| **Harmonics Figma Design** | UI/UX Prototype created using Figma for Harmonics. | [View Prototype](https://www.figma.com/proto/uOyvpqAgAfc1NksnCzsHUI/HARMONICS?node-id=292-88&starting-point-node-id=292%3A88) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| **Apple Clone** | A front-end clone of the Apple website showcasing UI/UX skills. | [Live Demo](https://apple-clone-5kvo3r19w-chrstian-jakes-projects.vercel.app/) | ![Screenshot from 2025-06-11 21-03-07](https://github.com/user-attachments/assets/8e905148-9daa-4fb3-acc7-485397e8a78e) |
+| Project | Description | Live Link |
+|--------|-------------|-----------|
+| **CBG Homestay** | Booking platform for a local homestay business | [🔗 Live Demo](https://cjshark.github.io/CBG-Homestay-2/) |
+| **Harmonics** | Web app focused on music exploration and playback | [🔗 Live Demo](https://cjshark.github.io/Harmonics_2/) |
+| **Harmonics (Figma Design)** | UI/UX prototype of Harmonics web app built using Figma | [🎨 View Prototype](https://www.figma.com/proto/uOyvpqAgAfc1NksnCzsHUI/HARMONICS?node-id=292-88&starting-point-node-id=292%3A88) |
+| **Apple Clone** | UI/UX clone of the Apple homepage | [🔗 Live Demo](https://apple-clone-5kvo3r19w-chrstian-jakes-projects.vercel.app/) |
 
 ---
 
