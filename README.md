@@ -92,7 +92,7 @@ Feel free to reach out! I'm always open to collaborations and new opportunities.
     </a>
     &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/CatipayJake target="blank" title="Twitter/X">
-    <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_USERNAME?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/CatipayJakelogo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/christian-jake-catipay-10021a304/" target="blank" title="LinkedIn">
