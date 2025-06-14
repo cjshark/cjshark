@@ -13,15 +13,15 @@ Here are some of the technologies and tools I work with:
 
 <p align="left">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" width="45" height="45"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" width="70" height="45"/>
     </a>
 &nbsp;
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap">
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" width="45" height="45"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" width="70" height="45"/>
     </a>
 &nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="45" height="45"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="70" height="45"/>
     </a>
 &nbsp;
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
