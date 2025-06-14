@@ -12,33 +12,39 @@ I'm a dedicated Full-Stack developer always eager to build robust and scalable a
 Here are some of the technologies and tools I work with:
 
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
-  </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
+    </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="45" height="45"/>
+    </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
+  </a>
 </p>
 
 ---
@@ -73,11 +79,23 @@ Here are some of the projects I've been working on. Click the links to explore t
 Feel free to reach out! I'm always open to collaborations and new opportunities.
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="blank" title="Twitter/X">
-    <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_USERNAME?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  </p>      
+    <a href="https://www.facebook.com/Kenshin.Cj15/" target="blank" title="Facebook">
+        <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/cjc.17/" target="blank" title="Instagram">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:cjshark321@gmail.com" target="blank" title="Email">
+        <img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/CatipayJake target="blank" title="Twitter/X">
+    <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_USERNAME?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/christian-jake-catipay-10021a304/" target="blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  </p>    
